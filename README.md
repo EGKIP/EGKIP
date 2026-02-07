@@ -1,9 +1,7 @@
 # Hi, I’m Emmanuel K.👋
 
 - CS student (B.S. Computer Science + Math minor).
-- Building full-stack web apps, scalable cloud systems, and AI-powered solutions.
 - Backend-focused with experience in machine learning, deep learning, and system design.
-- Researching V2I communication and traffic optimization using reinforcement learning (SUMO + DQN).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EmmanuelKiprotich) 
